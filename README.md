@@ -1,7 +1,8 @@
-# [3rd Data Science's challenge of Talent Squad ](https://nuwe.io/dev/challenges/talent-squad-data-science-iii)
-(10th Oct 2022 - 11th Dec 11 2022)]
+# [Schneider Electric: European hackathon 2022 ](https://nuwe.io/dev/event/schneider-electric-european-hackathon)
+(5th Nov 2022)]
 
 # Background
+
 
 #### Influences on academic performance
 
@@ -27,7 +28,7 @@ You will be given a dataset of 800 rows for the prediction algorithm training an
 
 # Problem
 
-The **purpose of this project** is to ....
+The **purpose of this project** is to generate an algorithm to classify satellite images ....
 
 Evaluation will be based on the f1_score from predictions of the dataset and the groundtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
 
